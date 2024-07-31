@@ -1,13 +1,13 @@
 {
-  "name": "TEST",
-  "symbol": "TTTT",
+  "name": "hello",
+  "symbol": "testing",
   "description": "EPIC TOKEN",
   "image": "https://raw.githubusercontent.com/xyzdot-bot/hello/main/coolmonkey.png",
   "seller_fee_basis_points": 50,
   "properties": {
     "creators": [
       {
-        "address": "<your_solana_wallet_address>",
+        "address": "<3ioAvPduvhkijssyQYXanbrXvfFEckjJPts9kGmWhwEq>",
         "share": 0
       }
     ]
