@@ -1,6 +1,6 @@
 {
   "name": "hello",
-  "symbol": "testing",
+  "symbol": "test",
   "description": "EPIC TOKEN",
   "image": "https://raw.githubusercontent.com/xyzdot-bot/hello/main/coolmonkey.png",
   "seller_fee_basis_points": 50,
