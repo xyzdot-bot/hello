@@ -1,14 +1,12 @@
 {
-  "name": "hello",
-  "symbol": "test",
-  "description": "EPIC TOKEN",
+  "name": "MANKY",
+  "symbol": "MNKY",
+  "description": "made by @fayrdev",
   "image": "https://raw.githubusercontent.com/xyzdot-bot/hello/main/coolmonkey.png",
-  "seller_fee_basis_points": 50,
   "properties": {
     "creators": [
       {
         "address": "<3ioAvPduvhkijssyQYXanbrXvfFEckjJPts9kGmWhwEq>",
-        "share": 0
       }
     ]
   }
